@@ -1,1 +1,1 @@
-# Dummy Projects For Learning data Analysis
+# Dummy Projects For Learning How to Analyse the Dataset
